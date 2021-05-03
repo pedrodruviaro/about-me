@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pedrodruviaro
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning JS and CSS 
+- 📫 How to reach me: pedrodruviaro@gmail.com
